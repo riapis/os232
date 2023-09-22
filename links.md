@@ -9,5 +9,7 @@ A website that provides 50 Linux Command lists with examples.
 Someone share a bunch of bash's commands.
 * [Bash Scripting on Linux](https://www.youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w) ---
 A playlist of videos that teaches about bash scripting.
+* [Linux Directories](https://www.youtube.com/watch?v=42iQKuQodW4) ---
+A Short but Meaningful Video about Linux Directories
 <br>
 <hr>
