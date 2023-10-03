@@ -34,6 +34,13 @@ ZCZC W03 40 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W03 160 L13 Assignment #03
 ZCZC W03 40 L32 YouTube: watching OS related topics, etc.
 
+ZCZC W04 15 L01 SCELE/Discord related
+ZCZC W04 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 15 L03 GitHub and git related, including commit, push, pull
+ZCZC W04 25 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 20 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
+ZCZC W04 90 L14 Assignment #04
+ZCZC W04 30 L32 YouTube: watching OS related topics, etc.
 
 
 
