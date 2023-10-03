@@ -11,7 +11,7 @@ Someone share a bunch of bash's commands.
 A playlist of videos that teaches about bash scripting.
 * [Linux Directories](https://www.youtube.com/watch?v=42iQKuQodW4) ---
 A short but Meaningful Video about Linux Directories
-*[Pointer in C](https://linuxhint.com/use-pointers-c/) ---
+* [Pointer in C](https://linuxhint.com/use-pointers-c/) ---
 An explanation of pointer in C
 * [Grep Command](https://www.hostinger.com/tutorials/how-to-install-and-use-nano-text-editor) ---
 A tutorial on how to use a nano text editor and some command
