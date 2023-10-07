@@ -17,5 +17,7 @@ An explanation of pointer in C.
 A tutorial on how to use a nano text editor and some commands.
 * [Virtual Memory](https://www.youtube.com/watch?v=2quKyPnUShQ) ---
 A video that explains virtual memory.
+* [Virtual Memory vs Virtual Cache](https://www.geeksforgeeks.org/difference-between-virtual-memory-and-cache-memory/?ref=rp) ---
+A website that explains the difference between Virtual Memory and Virtual Cache.
 <br>
 <hr>
