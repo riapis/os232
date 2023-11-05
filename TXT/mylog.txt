@@ -48,10 +48,17 @@ ZCZC W05 10 L03 GitHub and git related, including commit, push, pull
 ZCZC W05 25 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W05 80 L05 Quiz related including studying
 ZCZC W05 30 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
-ZCZC W05 220 L14 Assignment #04
+ZCZC W05 220 L15 Assignment #05
 ZCZC W05 40 L32 YouTube: watching OS related topics, etc.
 
-
+ZCZC W06 15 L01 SCELE/Discord related
+ZCZC W06 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W06 25 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W06 50 L05 Quiz related including studying
+ZCZC W06 20 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
+ZCZC W06 180 L16 Assignment #06
+ZCZC W06 30 L32 YouTube: watching OS related topics, etc.
 
 
 
