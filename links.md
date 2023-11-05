@@ -19,5 +19,9 @@ A tutorial on how to use a nano text editor and some commands.
 A video that explains virtual memory.
 * [Virtual Memory vs Virtual Cache](https://www.geeksforgeeks.org/difference-between-virtual-memory-and-cache-memory/?ref=rp) ---
 A website that explains the difference between Virtual Memory and Virtual Cache.
+* [Fork() syscall](https://www.youtube.com/watch?v=ss1-REMJ9GA) ---
+A video explaining about fork() syscall, and the theory behind it.
+* [Thread](https://www.youtube.com/watch?v=LOfGJcVnvAk) ---
+A video that explains thread in operating system.
 <br>
 <hr>
