@@ -60,6 +60,14 @@ ZCZC W06 20 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend,
 ZCZC W06 180 L16 Assignment #06
 ZCZC W06 30 L32 YouTube: watching OS related topics, etc.
 
+ZCZC W07 10 L01 SCELE/Discord related
+ZCZC W07 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W07 35 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W07 80 L05 Quiz related including studying
+ZCZC W07 30 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
+ZCZC W07 150 L17 Assignment #07
+ZCZC W07 50 L32 YouTube: watching OS related topics, etc.
+
 
 
 
