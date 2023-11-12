@@ -23,5 +23,9 @@ A website that explains the difference between Virtual Memory and Virtual Cache.
 A video explaining about fork() syscall, and the theory behind it.
 * [Thread](https://www.youtube.com/watch?v=LOfGJcVnvAk) ---
 A video that explains thread in operating system.
+* [SCP Command](https://www.youtube.com/watch?v=q2OHvlr081s) ---
+A tutorial on how to copy a file using scp command.
+* [Deadlock](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) ---
+A website that explains deadlock.
 <br>
 <hr>
