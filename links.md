@@ -27,5 +27,9 @@ A video that explains thread in operating system.
 A tutorial on how to copy a file using scp command.
 * [Deadlock](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) ---
 A website that explains deadlock.
+* [LFS](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) ---
+A playlist that explains how to build linux from scratch. It is very clear so it's easy to understand.
+* [FCFS](https://www.youtube.com/watch?v=7DoP1L9nAAs) ---
+A video that explains first come first serve scheduling.
 <br>
 <hr>
